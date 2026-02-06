@@ -1,0 +1,33 @@
+{
+  "name": "neto-js-webworker-serviceworker-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbog1985/neto-js-webworker-serviceworker-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexbog1985/neto-js-webworker-serviceworker-backend/issues"
+  },
+  "homepage": "https://github.com/alexbog1985/neto-js-webworker-serviceworker-backend#readme",
+  "dependencies": {
+    "@koa/cors": "^5.0.0",
+    "koa": "^3.1.1",
+    "koa-cors": "^0.0.16",
+    "koa-router": "^14.0.0",
+    "koa-slow": "^2.1.0",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
