@@ -14,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/alexbog1985/neto-js-webworker-serviceworker-backend/issues"
   },
@@ -26,8 +25,5 @@
     "koa-router": "^14.0.0",
     "koa-slow": "^2.1.0",
     "koa-static": "^5.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.11"
   }
 }
